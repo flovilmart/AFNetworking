@@ -147,6 +147,9 @@
       location = "group:Example/AFNetworking OS X Example.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:AFNetworking-Framework/AFNetworking/AFNetworking.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Tests/Pods/Pods.xcodeproj">
    </FileRef>
 </Workspace>
